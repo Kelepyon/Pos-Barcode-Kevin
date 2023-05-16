@@ -1,0 +1,13 @@
+<div class="text-center">
+    <?php
+      // echo("All User Data On Array");
+      // $sql = "SELECT * FROM tb_user";
+      // $check = $pdo->prepare($sql);
+      // $check->execute();
+
+      // $row = $check->fetchAll(PDO::FETCH_ASSOC);
+      // echo "<pre>";
+      // print_r($row);
+      // echo "</pre>";
+    ?>
+    </div>
